@@ -105,3 +105,4 @@ section{position:relative}
 .d2{top:-3.4rem;right:4%}
 @media (min-width:48rem){.d2{top:-1.5rem;right:3%}}
 .contact a.big{font-size:clamp(.9rem,4.4vw,2.6rem);white-space:nowrap;word-break:normal}
+.pcard img.sq{aspect-ratio:1/1}.grid2{align-items:start}dialog .stage.sq{margin-left:auto!important;margin-right:auto!important}
